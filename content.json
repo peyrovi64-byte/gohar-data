@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "brand": "گوهر",
+  "brand": "زرین گوهر",
   "logo": "",
   "accent": "",
   "mode": "auto",
-  "scale": 1,
+  "scale": 0.85,
   "font": "amiri",
   "texts": {
     "birthTitle": "سنگ ماه تولد",
