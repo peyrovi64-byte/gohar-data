@@ -6,7 +6,9 @@
   "mode": "auto",
   "scale": 1,
   "font": "amiri",
-  "texts": {},
+  "texts": {
+    "libTitle": "انواع سنگ ها"
+  },
   "stones": [
     {
       "id": "garnet",
