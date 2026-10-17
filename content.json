@@ -8,7 +8,9 @@
   "font": "amiri",
   "texts": {},
   "stones": null,
-  "contact": {},
+  "contact": {
+    "phone": "09126274636"
+  },
   "banner": {},
   "update": {}
 }
