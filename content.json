@@ -5,10 +5,11 @@
   "accent": "",
   "mode": "auto",
   "scale": 1,
-  "font": "amiri",
+  "font": "vazir",
   "texts": {
     "libTitle": "انواع سنگ ها",
-    "disc": "خواص سنگ ها"
+    "disc": "خواص سنگ ها",
+    "hardLede": "تست"
   },
   "stones": [
     {
