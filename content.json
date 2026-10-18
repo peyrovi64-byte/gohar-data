@@ -232,7 +232,55 @@
   ],
   "birth": {
     "g": null,
-    "s": null
+    "s": [
+      [
+        "diamond",
+        "amethyst",
+        "lapis",
+        "agate",
+        "topaz"
+      ],
+      [
+        "emerald"
+      ],
+      [
+        "pearl",
+        "moonstone",
+        "alexandrite"
+      ],
+      [
+        "ruby"
+      ],
+      [
+        "peridot",
+        "spinel"
+      ],
+      [
+        "sapphire"
+      ],
+      [
+        "opal",
+        "tourmaline"
+      ],
+      [
+        "topaz",
+        "citrine"
+      ],
+      [
+        "turquoise",
+        "tanzanite",
+        "zircon"
+      ],
+      [
+        "garnet"
+      ],
+      [
+        "amethyst"
+      ],
+      [
+        "aquamarine"
+      ]
+    ]
   },
   "texts": {
     "birthTitle": "سنگ ماه تولد",
