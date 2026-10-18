@@ -6,6 +6,234 @@
   "mode": "auto",
   "scale": 1,
   "font": "vazir",
+  "logoSize": 26,
+  "months": [
+    {
+      "sign": "حمل",
+      "symbol": "♈︎",
+      "element": "آتش",
+      "planet": "مریخ",
+      "color": "#D64545",
+      "colorName": "قرمز",
+      "spirit": "diamond",
+      "health": "ruby",
+      "luck": "agate",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "ثور",
+      "symbol": "♉︎",
+      "element": "خاک",
+      "planet": "زهره",
+      "color": "#3E9B6B",
+      "colorName": "سبز",
+      "spirit": "emerald",
+      "health": "rosequartz",
+      "luck": "sapphire",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "جوزا",
+      "symbol": "♊︎",
+      "element": "هوا",
+      "planet": "عطارد",
+      "color": "#F2C230",
+      "colorName": "زرد",
+      "spirit": "alexandrite",
+      "health": "citrine",
+      "luck": "tourmaline",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "سرطان",
+      "symbol": "♋︎",
+      "element": "آب",
+      "planet": "ماه",
+      "color": "#C9D3DC",
+      "colorName": "نقره‌ای",
+      "spirit": "moonstone",
+      "health": "pearl",
+      "luck": "ruby",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "اسد",
+      "symbol": "♌︎",
+      "element": "آتش",
+      "planet": "خورشید",
+      "color": "#E8A33D",
+      "colorName": "طلایی",
+      "spirit": "amber",
+      "health": "peridot",
+      "luck": "topaz",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "سنبله",
+      "symbol": "♍︎",
+      "element": "خاک",
+      "planet": "عطارد",
+      "color": "#7A6A58",
+      "colorName": "قهوه‌ای",
+      "spirit": "sapphire",
+      "health": "jade",
+      "luck": "peridot",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "میزان",
+      "symbol": "♎︎",
+      "element": "هوا",
+      "planet": "زهره",
+      "color": "#E58FB0",
+      "colorName": "صورتی",
+      "spirit": "lapis",
+      "health": "rosequartz",
+      "luck": "opal",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "عقرب",
+      "symbol": "♏︎",
+      "element": "آب",
+      "planet": "مریخ",
+      "color": "#8E1F3A",
+      "colorName": "زرشکی",
+      "spirit": "garnet",
+      "health": "topaz",
+      "luck": "spinel",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "قوس",
+      "symbol": "♐︎",
+      "element": "آتش",
+      "planet": "مشتری",
+      "color": "#6B4FB8",
+      "colorName": "بنفش",
+      "spirit": "tanzanite",
+      "health": "zircon",
+      "luck": "turquoise",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "جدی",
+      "symbol": "♑︎",
+      "element": "خاک",
+      "planet": "زحل",
+      "color": "#3D4650",
+      "colorName": "خاکستری تیره",
+      "spirit": "tourmaline",
+      "health": "jade",
+      "luck": "garnet",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "دلو",
+      "symbol": "♒︎",
+      "element": "هوا",
+      "planet": "زحل",
+      "color": "#2E9FD0",
+      "colorName": "آبی روشن",
+      "spirit": "amethyst",
+      "health": "aquamarine",
+      "luck": "zircon",
+      "symbolImg": "",
+      "note": ""
+    },
+    {
+      "sign": "حوت",
+      "symbol": "♓︎",
+      "element": "آب",
+      "planet": "مشتری",
+      "color": "#3BA79B",
+      "colorName": "سبز دریایی",
+      "spirit": "opal",
+      "health": "aquamarine",
+      "luck": "pearl",
+      "symbolImg": "",
+      "note": ""
+    }
+  ],
+  "chakras": [
+    {
+      "id": "root",
+      "name": "چاکرای ریشه",
+      "sanskrit": "مولادهارا",
+      "location": "پایین ستون فقرات",
+      "color": "#D64545",
+      "desc": "در باورهای سنتی با احساس امنیت، ثبات و پیوند با زمین مرتبط است.",
+      "image": ""
+    },
+    {
+      "id": "sacral",
+      "name": "چاکرای خاجی",
+      "sanskrit": "سواادیستانا",
+      "location": "زیر ناف",
+      "color": "#F08A24",
+      "desc": "در باورهای سنتی با خلاقیت، احساسات و لذت مرتبط است.",
+      "image": ""
+    },
+    {
+      "id": "solar",
+      "name": "چاکرای شبکهٔ خورشیدی",
+      "sanskrit": "مانیپورا",
+      "location": "بالای ناف، ناحیهٔ معده",
+      "color": "#F2C230",
+      "desc": "در باورهای سنتی با اراده، اعتمادبه‌نفس و قدرت شخصی مرتبط است.",
+      "image": ""
+    },
+    {
+      "id": "heart",
+      "name": "چاکرای قلب",
+      "sanskrit": "آناهاتا",
+      "location": "مرکز سینه",
+      "color": "#2EA66B",
+      "desc": "در باورهای سنتی با مهر، همدلی و پذیرش مرتبط است.",
+      "image": ""
+    },
+    {
+      "id": "throat",
+      "name": "چاکرای گلو",
+      "sanskrit": "ویشودا",
+      "location": "گلو",
+      "color": "#3BA7D9",
+      "desc": "در باورهای سنتی با بیان، صداقت و ارتباط مرتبط است.",
+      "image": ""
+    },
+    {
+      "id": "thirdeye",
+      "name": "چاکرای چشم سوم",
+      "sanskrit": "آجنا",
+      "location": "میان دو ابرو",
+      "color": "#4B50B8",
+      "desc": "در باورهای سنتی با شهود، بینش و تمرکز مرتبط است.",
+      "image": ""
+    },
+    {
+      "id": "crown",
+      "name": "چاکرای تاج",
+      "sanskrit": "ساهاسرارا",
+      "location": "بالای سر",
+      "color": "#8D5FC4",
+      "desc": "در باورهای سنتی با معنویت و آگاهی مرتبط است.",
+      "image": ""
+    }
+  ],
+  "birth": {
+    "g": null,
+    "s": null
+  },
   "texts": {
     "libTitle": "انواع سنگ ها",
     "disc": "خواص سنگ ها",
@@ -490,7 +718,9 @@
   ],
   "contact": {
     "phone": "09126274636",
-    "website": "https://goharzarin.ir"
+    "website": "https://goharzarin.ir",
+    "whatsapp": "+98 9126274636",
+    "instagram": "@zaringohar_gallery"
   },
   "banner": {
     "text": ""
