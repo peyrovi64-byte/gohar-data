@@ -8,7 +8,9 @@
   "font": "vazir",
   "brandEn": "Gohar",
   "accent2": "",
-  "textsEn": {},
+  "textsEn": {
+    "birthFoot": "Birthstones represent a fascinating connection between the beauty of nature, ancient legends, and the symbols associated with each month; with its unique color and appearance, each stone tells a story of love, tranquility, and hope."
+  },
   "logoSize": 64,
   "months": [
     {
@@ -377,7 +379,7 @@
   "texts": {
     "birthTitle": "سنگ ماه تولد",
     "birthLede": "ماه تولد خود را انتخاب کنید تا سنگ آن ماه و ویژگی‌هایش را ببینید.",
-    "birthFoot": "فهرست بر پایهٔ سنگ‌های ماه تولد رایج امروزی (AGTA و Jewelers of America) است؛ در فرهنگ‌های مختلف فهرست‌های سنتی متفاوتی هم وجود دارد. برای ماه شمسی، ماه میلادی با بیشترین هم‌پوشانی در نظر گرفته شده است.",
+    "birthFoot": "سنگ‌های ماه تولد، پیوندی شگفت‌انگیز میان زیبایی طبیعت، افسانه‌های کهن و نمادهای هر ماه هستند؛ هر سنگ با رنگ و جلوه‌ای منحصربه‌فرد، داستانی از عشق، آرامش و امید را روایت می‌کند.",
     "libTitle": "سنگ‌ها",
     "libLede": "با نام یا رنگ جستجو کنید و روی هر سنگ بزنید تا ویژگی‌هایش را ببینید.",
     "hardTitle": "مقیاس سختی",
