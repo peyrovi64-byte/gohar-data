@@ -9,7 +9,8 @@
   "brandEn": "Gohar",
   "accent2": "",
   "textsEn": {
-    "birthFoot": "Birthstones represent a fascinating connection between the beauty of nature, ancient legends, and the symbols associated with each month; with its unique color and appearance, each stone tells a story of love, tranquility, and hope."
+    "birthFoot": "Birthstones represent a fascinating connection between the beauty of nature, ancient legends, and the symbols associated with each month; with its unique color and appearance, each stone tells a story of love, tranquility, and hope.",
+    "chakraLede": "In spiritual teachings, natural stones are associated with the body’s seven chakras; each stone, with its unique color and symbolic attributes, serves as a reminder of balance, tranquility, and inner harmony."
   },
   "logoSize": 64,
   "months": [
@@ -386,7 +387,8 @@
     "hardLede": "سختی موس نشان می‌دهد هر سنگ چقدر در برابر خراش مقاوم است. گرد و غبار هوا ذره‌های کوارتز (سختی ۷) دارد؛ سنگ‌های نرم‌تر از خط‌چین با پوشیدن روزمره کم‌کم خراشیده و مات می‌شوند.",
     "tabBirth": "ماه تولد",
     "tabLib": "سنگ‌ها",
-    "tabHard": "سختی"
+    "tabHard": "سختی",
+    "chakraLede": "در آموزه‌های معنوی، سنگ‌های طبیعی با هفت چاکرای بدن ارتباط داده می‌شوند؛ هر سنگ با رنگ و ویژگی‌های نمادین خود، یادآور تعادل، آرامش و هماهنگی درونی است."
   },
   "stones": [
     {
