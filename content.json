@@ -6,6 +6,9 @@
   "mode": "auto",
   "scale": 0.85,
   "font": "vazir",
+  "brandEn": "Gohar",
+  "accent2": "",
+  "textsEn": {},
   "logoSize": 64,
   "months": [
     {
@@ -19,7 +22,12 @@
       "health": "ruby",
       "luck": "agate",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Aries",
+      "elementEn": "Fire",
+      "planetEn": "Mars",
+      "colorNameEn": "Red",
+      "noteEn": ""
     },
     {
       "sign": "ثور",
@@ -32,7 +40,12 @@
       "health": "rosequartz",
       "luck": "sapphire",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Taurus",
+      "elementEn": "Earth",
+      "planetEn": "Venus",
+      "colorNameEn": "Green",
+      "noteEn": ""
     },
     {
       "sign": "جوزا",
@@ -45,7 +58,12 @@
       "health": "citrine",
       "luck": "tourmaline",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Gemini",
+      "elementEn": "Air",
+      "planetEn": "Mercury",
+      "colorNameEn": "Yellow",
+      "noteEn": ""
     },
     {
       "sign": "سرطان",
@@ -58,7 +76,12 @@
       "health": "pearl",
       "luck": "ruby",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Cancer",
+      "elementEn": "Water",
+      "planetEn": "Moon",
+      "colorNameEn": "Silver",
+      "noteEn": ""
     },
     {
       "sign": "اسد",
@@ -71,7 +94,12 @@
       "health": "peridot",
       "luck": "topaz",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Leo",
+      "elementEn": "Fire",
+      "planetEn": "Sun",
+      "colorNameEn": "Gold",
+      "noteEn": ""
     },
     {
       "sign": "سنبله",
@@ -84,7 +112,12 @@
       "health": "jade",
       "luck": "peridot",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Virgo",
+      "elementEn": "Earth",
+      "planetEn": "Mercury",
+      "colorNameEn": "Brown",
+      "noteEn": ""
     },
     {
       "sign": "میزان",
@@ -97,7 +130,12 @@
       "health": "rosequartz",
       "luck": "opal",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Libra",
+      "elementEn": "Air",
+      "planetEn": "Venus",
+      "colorNameEn": "Pink",
+      "noteEn": ""
     },
     {
       "sign": "عقرب",
@@ -110,7 +148,12 @@
       "health": "topaz",
       "luck": "spinel",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Scorpio",
+      "elementEn": "Water",
+      "planetEn": "Mars",
+      "colorNameEn": "Maroon",
+      "noteEn": ""
     },
     {
       "sign": "قوس",
@@ -123,7 +166,12 @@
       "health": "zircon",
       "luck": "turquoise",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Sagittarius",
+      "elementEn": "Fire",
+      "planetEn": "Jupiter",
+      "colorNameEn": "Purple",
+      "noteEn": ""
     },
     {
       "sign": "جدی",
@@ -136,7 +184,12 @@
       "health": "jade",
       "luck": "garnet",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Capricorn",
+      "elementEn": "Earth",
+      "planetEn": "Saturn",
+      "colorNameEn": "Dark gray",
+      "noteEn": ""
     },
     {
       "sign": "دلو",
@@ -149,7 +202,12 @@
       "health": "aquamarine",
       "luck": "zircon",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Aquarius",
+      "elementEn": "Air",
+      "planetEn": "Saturn",
+      "colorNameEn": "Light blue",
+      "noteEn": ""
     },
     {
       "sign": "حوت",
@@ -162,7 +220,12 @@
       "health": "aquamarine",
       "luck": "pearl",
       "symbolImg": "",
-      "note": ""
+      "note": "",
+      "signEn": "Pisces",
+      "elementEn": "Water",
+      "planetEn": "Jupiter",
+      "colorNameEn": "Sea green",
+      "noteEn": ""
     }
   ],
   "chakras": [
@@ -173,7 +236,11 @@
       "location": "پایین ستون فقرات",
       "color": "#D64545",
       "desc": "در باورهای سنتی با احساس امنیت، ثبات و پیوند با زمین مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Root chakra",
+      "sanskritEn": "Muladhara",
+      "locationEn": "Base of the spine",
+      "descEn": "In traditional belief, linked with security, stability and a sense of grounding."
     },
     {
       "id": "sacral",
@@ -182,7 +249,11 @@
       "location": "زیر ناف",
       "color": "#F08A24",
       "desc": "در باورهای سنتی با خلاقیت، احساسات و لذت مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Sacral chakra",
+      "sanskritEn": "Svadhisthana",
+      "locationEn": "Below the navel",
+      "descEn": "In traditional belief, linked with creativity, emotion and pleasure."
     },
     {
       "id": "solar",
@@ -191,7 +262,11 @@
       "location": "بالای ناف، ناحیهٔ معده",
       "color": "#F2C230",
       "desc": "در باورهای سنتی با اراده، اعتمادبه‌نفس و قدرت شخصی مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Solar plexus chakra",
+      "sanskritEn": "Manipura",
+      "locationEn": "Above the navel, stomach area",
+      "descEn": "In traditional belief, linked with willpower, confidence and personal strength."
     },
     {
       "id": "heart",
@@ -200,7 +275,11 @@
       "location": "مرکز سینه",
       "color": "#2EA66B",
       "desc": "در باورهای سنتی با مهر، همدلی و پذیرش مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Heart chakra",
+      "sanskritEn": "Anahata",
+      "locationEn": "Center of the chest",
+      "descEn": "In traditional belief, linked with love, empathy and acceptance."
     },
     {
       "id": "throat",
@@ -209,7 +288,11 @@
       "location": "گلو",
       "color": "#3BA7D9",
       "desc": "در باورهای سنتی با بیان، صداقت و ارتباط مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Throat chakra",
+      "sanskritEn": "Vishuddha",
+      "locationEn": "Throat",
+      "descEn": "In traditional belief, linked with expression, honesty and communication."
     },
     {
       "id": "thirdeye",
@@ -218,7 +301,11 @@
       "location": "میان دو ابرو",
       "color": "#4B50B8",
       "desc": "در باورهای سنتی با شهود، بینش و تمرکز مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Third eye chakra",
+      "sanskritEn": "Ajna",
+      "locationEn": "Between the eyebrows",
+      "descEn": "In traditional belief, linked with intuition, insight and focus."
     },
     {
       "id": "crown",
@@ -227,7 +314,11 @@
       "location": "بالای سر",
       "color": "#8D5FC4",
       "desc": "در باورهای سنتی با معنویت و آگاهی مرتبط است.",
-      "image": ""
+      "image": "",
+      "nameEn": "Crown chakra",
+      "sanskritEn": "Sahasrara",
+      "locationEn": "Top of the head",
+      "descEn": "In traditional belief, linked with spirituality and awareness."
     }
   ],
   "birth": {
