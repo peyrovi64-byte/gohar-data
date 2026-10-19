@@ -10,7 +10,8 @@
   "accent2": "",
   "textsEn": {
     "birthFoot": "Birthstones represent a fascinating connection between the beauty of nature, ancient legends, and the symbols associated with each month; with its unique color and appearance, each stone tells a story of love, tranquility, and hope.",
-    "chakraLede": "In spiritual teachings, natural stones are associated with the body’s seven chakras; each stone, with its unique color and symbolic attributes, serves as a reminder of balance, tranquility, and inner harmony."
+    "chakraLede": "In spiritual teachings, natural stones are associated with the body’s seven chakras; each stone, with its unique color and symbolic attributes, serves as a reminder of balance, tranquility, and inner harmony.",
+    "disc": "Within the heart of ancient legends, every stone holds a hidden secret; some are symbols of love, others evoke tranquility, and some represent power and courage."
   },
   "logoSize": 64,
   "months": [
@@ -388,7 +389,8 @@
     "tabBirth": "ماه تولد",
     "tabLib": "سنگ‌ها",
     "tabHard": "سختی",
-    "chakraLede": "در آموزه‌های معنوی، سنگ‌های طبیعی با هفت چاکرای بدن ارتباط داده می‌شوند؛ هر سنگ با رنگ و ویژگی‌های نمادین خود، یادآور تعادل، آرامش و هماهنگی درونی است."
+    "chakraLede": "در آموزه‌های معنوی، سنگ‌های طبیعی با هفت چاکرای بدن ارتباط داده می‌شوند؛ هر سنگ با رنگ و ویژگی‌های نمادین خود، یادآور تعادل، آرامش و هماهنگی درونی است.",
+    "disc": "در دل افسانه‌های کهن، هر سنگ رازی نهفته است؛ برخی نماد عشق‌اند، برخی یادآور آرامش و برخی نشانه‌ای از قدرت و شجاعت."
   },
   "stones": [
     {
