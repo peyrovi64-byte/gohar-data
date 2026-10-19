@@ -969,7 +969,14 @@
       "linkLabel": ""
     }
   ],
-  "contact": {},
+  "contact": {
+    "phone": "09126274636",
+    "whatsapp": "+989126274636",
+    "instagram": "@goharzarin_gallery",
+    "website": "https://goharzarin.ir/",
+    "address": "تهران - شهرری - انتهای خیابان صمدی - ابتدای خیابان خانلری پلاک 10",
+    "hours": "10 الی 21"
+  },
   "banner": {},
   "update": {}
 }
