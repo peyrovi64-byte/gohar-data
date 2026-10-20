@@ -13,6 +13,9 @@
     "chakraLede": "In spiritual teachings, natural stones are associated with the body’s seven chakras; each stone, with its unique color and symbolic attributes, serves as a reminder of balance, tranquility, and inner harmony.",
     "disc": "Within the heart of ancient legends, every stone holds a hidden secret; some are symbols of love, others evoke tranquility, and some represent power and courage."
   },
+  "api": {
+    "base": ""
+  },
   "logoSize": 64,
   "months": [
     {
@@ -31,7 +34,9 @@
       "elementEn": "Fire",
       "planetEn": "Mars",
       "colorNameEn": "Red",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "ثور",
@@ -49,7 +54,9 @@
       "elementEn": "Earth",
       "planetEn": "Venus",
       "colorNameEn": "Green",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "جوزا",
@@ -67,7 +74,9 @@
       "elementEn": "Air",
       "planetEn": "Mercury",
       "colorNameEn": "Yellow",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "سرطان",
@@ -85,7 +94,9 @@
       "elementEn": "Water",
       "planetEn": "Moon",
       "colorNameEn": "Silver",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "اسد",
@@ -103,7 +114,9 @@
       "elementEn": "Fire",
       "planetEn": "Sun",
       "colorNameEn": "Gold",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "سنبله",
@@ -121,7 +134,9 @@
       "elementEn": "Earth",
       "planetEn": "Mercury",
       "colorNameEn": "Brown",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "میزان",
@@ -139,7 +154,9 @@
       "elementEn": "Air",
       "planetEn": "Venus",
       "colorNameEn": "Pink",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "عقرب",
@@ -157,7 +174,9 @@
       "elementEn": "Water",
       "planetEn": "Mars",
       "colorNameEn": "Maroon",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "قوس",
@@ -175,7 +194,9 @@
       "elementEn": "Fire",
       "planetEn": "Jupiter",
       "colorNameEn": "Purple",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "جدی",
@@ -193,7 +214,9 @@
       "elementEn": "Earth",
       "planetEn": "Saturn",
       "colorNameEn": "Dark gray",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "دلو",
@@ -211,7 +234,9 @@
       "elementEn": "Air",
       "planetEn": "Saturn",
       "colorNameEn": "Light blue",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     },
     {
       "sign": "حوت",
@@ -229,7 +254,9 @@
       "elementEn": "Water",
       "planetEn": "Jupiter",
       "colorNameEn": "Sea green",
-      "noteEn": ""
+      "noteEn": "",
+      "elementImg": "",
+      "planetImg": ""
     }
   ],
   "chakras": [
@@ -244,7 +271,8 @@
       "nameEn": "Root chakra",
       "sanskritEn": "Muladhara",
       "locationEn": "Base of the spine",
-      "descEn": "In traditional belief, linked with security, stability and a sense of grounding."
+      "descEn": "In traditional belief, linked with security, stability and a sense of grounding.",
+      "stone": "ruby"
     },
     {
       "id": "sacral",
@@ -257,7 +285,8 @@
       "nameEn": "Sacral chakra",
       "sanskritEn": "Svadhisthana",
       "locationEn": "Below the navel",
-      "descEn": "In traditional belief, linked with creativity, emotion and pleasure."
+      "descEn": "In traditional belief, linked with creativity, emotion and pleasure.",
+      "stone": "amber"
     },
     {
       "id": "solar",
@@ -270,7 +299,8 @@
       "nameEn": "Solar plexus chakra",
       "sanskritEn": "Manipura",
       "locationEn": "Above the navel, stomach area",
-      "descEn": "In traditional belief, linked with willpower, confidence and personal strength."
+      "descEn": "In traditional belief, linked with willpower, confidence and personal strength.",
+      "stone": "citrine"
     },
     {
       "id": "heart",
@@ -283,7 +313,8 @@
       "nameEn": "Heart chakra",
       "sanskritEn": "Anahata",
       "locationEn": "Center of the chest",
-      "descEn": "In traditional belief, linked with love, empathy and acceptance."
+      "descEn": "In traditional belief, linked with love, empathy and acceptance.",
+      "stone": "emerald"
     },
     {
       "id": "throat",
@@ -296,7 +327,8 @@
       "nameEn": "Throat chakra",
       "sanskritEn": "Vishuddha",
       "locationEn": "Throat",
-      "descEn": "In traditional belief, linked with expression, honesty and communication."
+      "descEn": "In traditional belief, linked with expression, honesty and communication.",
+      "stone": "turquoise"
     },
     {
       "id": "thirdeye",
@@ -309,7 +341,8 @@
       "nameEn": "Third eye chakra",
       "sanskritEn": "Ajna",
       "locationEn": "Between the eyebrows",
-      "descEn": "In traditional belief, linked with intuition, insight and focus."
+      "descEn": "In traditional belief, linked with intuition, insight and focus.",
+      "stone": "lapis"
     },
     {
       "id": "crown",
@@ -322,7 +355,8 @@
       "nameEn": "Crown chakra",
       "sanskritEn": "Sahasrara",
       "locationEn": "Top of the head",
-      "descEn": "In traditional belief, linked with spirituality and awareness."
+      "descEn": "In traditional belief, linked with spirituality and awareness.",
+      "stone": "amethyst"
     }
   ],
   "birth": {
