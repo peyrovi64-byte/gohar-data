@@ -1011,7 +1011,9 @@
     "instagram": "@goharzarin_gallery",
     "website": "https://goharzarin.ir/",
     "address": "تهران - شهرری - انتهای خیابان صمدی - ابتدای خیابان خانلری پلاک 10",
-    "hours": "10 الی 21"
+    "hours": "10 الی 21",
+    "lat": "35.61853044047122",
+    "lng": "51.443004489215866"
   },
   "banner": {},
   "update": {}
