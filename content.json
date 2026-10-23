@@ -14,7 +14,7 @@
     "disc": "Within the heart of ancient legends, every stone holds a hidden secret; some are symbols of love, others evoke tranquility, and some represent power and courage."
   },
   "api": {
-    "base": "https://rest.payamak-panel.com/api/SendSMS/BaseServiceNumber"
+    "base": ""
   },
   "logoSize": 64,
   "months": [
@@ -1058,7 +1058,7 @@
       "fa": "حدید",
       "en": "New stone",
       "alt": "",
-      "color": "#2EB8B0",
+      "color": "#000000",
       "fam": "blue",
       "m": [
         5,
