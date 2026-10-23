@@ -369,7 +369,8 @@
         "agate",
         "topaz",
         "jade",
-        "smve7kd4h"
+        "smve7kd4h",
+        "smvkpqiwu"
       ],
       [
         "emerald"
@@ -995,6 +996,25 @@
       "alt": "",
       "color": "#814d04",
       "fam": "yellow",
+      "m": [
+        5,
+        5
+      ],
+      "comp": "",
+      "origin": "",
+      "belief": "",
+      "care": "",
+      "fact": "",
+      "link": "",
+      "linkLabel": ""
+    },
+    {
+      "id": "smvkpqiwu",
+      "fa": "حدید",
+      "en": "New stone",
+      "alt": "",
+      "color": "#2EB8B0",
+      "fam": "blue",
       "m": [
         5,
         5
